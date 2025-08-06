@@ -1,0 +1,2 @@
+# YGTWebGLPlayGround
+WebGLビルド内容の確認用リポジトリ
